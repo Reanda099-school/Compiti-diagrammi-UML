@@ -2,3 +2,4 @@
 Qui saranno caricati i diagrammi UML dei compiti di TDP
 
 Esercizio 1 : Documentazione con diagramma UML di un programma esistente
+Esercizio 2 : Progettazione iscrizione e cancellazione
